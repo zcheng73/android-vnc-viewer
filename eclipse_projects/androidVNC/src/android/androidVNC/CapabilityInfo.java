@@ -36,6 +36,7 @@ class CapabilityInfo {
     this.nameSignature = nameSignature;
     this.description = description;
     enabled = false;
+
   }
 
   public CapabilityInfo(int code,
